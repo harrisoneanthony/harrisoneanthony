@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harrisoneanthony
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning on the Coding Dojo platform
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing iOS mobile applications
+- 🌱 I’m a Coding Dojo Alumi
+- 💞️ I’m looking to collaborate on any iOS or web based application projects
 - 📫 How to reach me Email: harrisoneanthony@gmail.com
 
 <!---
